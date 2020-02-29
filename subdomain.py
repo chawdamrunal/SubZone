@@ -11,7 +11,6 @@ import sys
 
 active_subdomains = []
 
-
 class subzone:
 	def __init__(self):
 		pass
